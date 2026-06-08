@@ -2,7 +2,9 @@ function Hero() {
   return (
     <section className="hero">
       <div>
-        <h1>Luxury Shopping Experience</h1>
+        <h1 className="hero-title">
+          Luxury Shopping Experience
+        </h1>
 
         <p>
           Discover premium products with unbeatable prices and modern design.
